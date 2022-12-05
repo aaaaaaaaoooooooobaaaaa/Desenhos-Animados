@@ -1,0 +1,36 @@
+body{
+         background-color: #000000;
+		 font: 15px Helvetica, sans-serif;
+       
+        }
+		
+
+		
+        #menu ul{
+		font: 17px Helvetica, sans-serif; 
+        widht: 8%;
+        margin: 0;
+        background-color: #000000
+        }
+		
+        #menu ul li {
+        margin: 0; padding: 12px; display: inline;
+
+			
+   
+        }
+         #menu ul li a {
+	     padding: 10px 10px;
+	     display: inline-block;
+		 color: #ffffff;
+		 text-decoration: none;
+    
+        }
+		
+		 #menu ul li a:hover {
+		 color: #808080
+		 
+		 }
+		 #conteudo {
+		 font: 17px Helvetica, sans-serif; 
+		 }
